@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityasx69/dsa-daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityasx69/dsa-daily/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |

@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/adityasx69/dsa-daily/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityasx69/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ class Solution {
         for(int num : nums){
             map.put(num,map.getOrDefault(num,0) + 1);
         }
+
         for(int x : map.keySet()){
             if(map.get(x) > (n/2)){
                 return x;

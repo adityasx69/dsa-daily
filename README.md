@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityasx69/dsa-daily/tree/master/0136-single-number) |
+| [1009-complement-of-base-10-integer](https://github.com/adityasx69/dsa-daily/tree/master/1009-complement-of-base-10-integer) |
 ## Binary Search
 |  |
 | ------- |

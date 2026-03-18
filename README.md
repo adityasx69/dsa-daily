@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/adityasx69/dsa-daily/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation

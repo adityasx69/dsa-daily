@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/adityasx69/dsa-daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/adityasx69/dsa-daily/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasx69/dsa-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityasx69/dsa-daily/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityasx69/dsa-daily/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

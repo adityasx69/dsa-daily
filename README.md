@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityasx69/dsa-daily/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityasx69/dsa-daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityasx69/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 ## Hash Table

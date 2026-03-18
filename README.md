@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityasx69/dsa-daily/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityasx69/dsa-daily/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 ## Union-Find
@@ -81,10 +83,19 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

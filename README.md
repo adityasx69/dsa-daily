@@ -56,6 +56,7 @@
 | [0009-palindrome-number](https://github.com/adityasx69/dsa-daily/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -97,6 +98,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityasx69/dsa-daily/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

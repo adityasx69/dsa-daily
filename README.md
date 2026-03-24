@@ -30,6 +30,7 @@
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2678-number-of-senior-citizens](https://github.com/adityasx69/dsa-daily/tree/master/2678-number-of-senior-citizens) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/adityasx69/dsa-daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/adityasx69/dsa-daily/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |

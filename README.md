@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityasx69/dsa-daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1408-string-matching-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/adityasx69/dsa-daily/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityasx69/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/adityasx69/dsa-daily/tree/master/1672-richest-customer-wealth) |
 ## Trie
 |  |
 | ------- |

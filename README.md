@@ -63,6 +63,7 @@
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/adityasx69/dsa-daily/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/adityasx69/dsa-daily/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adityasx69/dsa-daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation

@@ -30,6 +30,7 @@
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityasx69/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/adityasx69/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/adityasx69/dsa-daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/adityasx69/dsa-daily/tree/master/2942-find-words-containing-character) |
@@ -68,6 +69,7 @@
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasx69/dsa-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/adityasx69/dsa-daily/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/adityasx69/dsa-daily/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adityasx69/dsa-daily/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adityasx69/dsa-daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |

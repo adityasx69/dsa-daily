@@ -33,6 +33,7 @@
 | [2678-number-of-senior-citizens](https://github.com/adityasx69/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/adityasx69/dsa-daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/adityasx69/dsa-daily/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,12 +118,14 @@
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
+| [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +165,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityasx69/dsa-daily/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->

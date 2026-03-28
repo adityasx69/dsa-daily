@@ -106,6 +106,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/adityasx69/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/adityasx69/dsa-daily/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/adityasx69/dsa-daily/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/adityasx69/dsa-daily/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |

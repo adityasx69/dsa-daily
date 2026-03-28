@@ -44,6 +44,7 @@
 | [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0014-longest-common-prefix](https://github.com/adityasx69/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/adityasx69/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/adityasx69/dsa-daily/tree/master/0709-to-lower-case) |
 | [1408-string-matching-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityasx69/dsa-daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

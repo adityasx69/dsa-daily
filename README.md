@@ -45,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Union-Find
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1408-string-matching-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityasx69/dsa-daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/adityasx69/dsa-daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/adityasx69/dsa-daily/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityasx69/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |

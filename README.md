@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityasx69/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasx69/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasx69/dsa-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityasx69/dsa-daily/tree/master/0136-single-number) |
@@ -100,6 +101,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityasx69/dsa-daily/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasx69/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
 ## String

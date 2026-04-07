@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityasx69/dsa-daily/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityasx69/dsa-daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/adityasx69/dsa-daily/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

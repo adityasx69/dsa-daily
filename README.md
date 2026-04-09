@@ -58,6 +58,7 @@
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/adityasx69/dsa-daily/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Union-Find
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [2942-find-words-containing-character](https://github.com/adityasx69/dsa-daily/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/adityasx69/dsa-daily/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/adityasx69/dsa-daily/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/adityasx69/dsa-daily/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |

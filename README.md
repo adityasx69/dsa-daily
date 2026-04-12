@@ -36,6 +36,7 @@
 | [1672-richest-customer-wealth](https://github.com/adityasx69/dsa-daily/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityasx69/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/adityasx69/dsa-daily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityasx69/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -157,6 +158,7 @@
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/adityasx69/dsa-daily/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/adityasx69/dsa-daily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |

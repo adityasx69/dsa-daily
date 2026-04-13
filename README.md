@@ -37,6 +37,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityasx69/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adityasx69/dsa-daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/adityasx69/dsa-daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/adityasx69/dsa-daily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityasx69/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |

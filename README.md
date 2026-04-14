@@ -97,6 +97,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityasx69/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/adityasx69/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2469-convert-the-temperature](https://github.com/adityasx69/dsa-daily/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/adityasx69/dsa-daily/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -172,6 +173,7 @@
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityasx69/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/adityasx69/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |

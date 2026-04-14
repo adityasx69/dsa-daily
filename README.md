@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/adityasx69/dsa-daily/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityasx69/dsa-daily/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/adityasx69/dsa-daily/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasx69/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasx69/dsa-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/adityasx69/dsa-daily/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/adityasx69/dsa-daily/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityasx69/dsa-daily/tree/master/0292-nim-game) |

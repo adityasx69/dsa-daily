@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/adityasx69/dsa-daily/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityasx69/dsa-daily/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/adityasx69/dsa-daily/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/adityasx69/dsa-daily/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasx69/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -168,6 +169,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityasx69/dsa-daily/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/adityasx69/dsa-daily/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/adityasx69/dsa-daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/adityasx69/dsa-daily/tree/master/1672-richest-customer-wealth) |
 ## Trie

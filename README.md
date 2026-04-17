@@ -31,6 +31,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/adityasx69/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityasx69/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityasx69/dsa-daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -131,6 +132,7 @@
 | [0162-find-peak-element](https://github.com/adityasx69/dsa-daily/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/adityasx69/dsa-daily/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |

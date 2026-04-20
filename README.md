@@ -46,6 +46,7 @@
 | [1920-build-array-from-permutation](https://github.com/adityasx69/dsa-daily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityasx69/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/adityasx69/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityasx69/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityasx69/dsa-daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -200,6 +201,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/adityasx69/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Divide and Conquer
 |  |

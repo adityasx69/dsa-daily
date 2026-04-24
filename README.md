@@ -49,6 +49,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adityasx69/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityasx69/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityasx69/dsa-daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/adityasx69/dsa-daily/tree/master/2678-number-of-senior-citizens) |
@@ -72,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3668-restore-finishing-order](https://github.com/adityasx69/dsa-daily/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adityasx69/dsa-daily/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -188,6 +190,7 @@
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityasx69/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/adityasx69/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 ## Sorting
@@ -197,6 +200,7 @@
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/adityasx69/dsa-daily/tree/master/3024-type-of-triangle) |
 ## Greedy

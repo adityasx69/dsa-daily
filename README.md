@@ -138,6 +138,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/adityasx69/dsa-daily/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adityasx69/dsa-daily/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adityasx69/dsa-daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/adityasx69/dsa-daily/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adityasx69/dsa-daily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -316,4 +318,5 @@
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adityasx69/dsa-daily/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->

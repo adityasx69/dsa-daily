@@ -293,4 +293,8 @@
 | [1480-running-sum-of-1d-array](https://github.com/adityasx69/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adityasx69/dsa-daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/adityasx69/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

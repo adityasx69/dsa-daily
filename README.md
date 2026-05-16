@@ -116,6 +116,7 @@
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityasx69/dsa-daily/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/adityasx69/dsa-daily/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasx69/dsa-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityasx69/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -186,6 +187,7 @@
 | [0053-maximum-subarray](https://github.com/adityasx69/dsa-daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasx69/dsa-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/adityasx69/dsa-daily/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |

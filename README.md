@@ -37,6 +37,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityasx69/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityasx69/dsa-daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1408-string-matching-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/adityasx69/dsa-daily/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/adityasx69/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/adityasx69/dsa-daily/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/adityasx69/dsa-daily/tree/master/1672-richest-customer-wealth) |

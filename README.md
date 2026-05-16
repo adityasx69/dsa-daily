@@ -76,6 +76,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityasx69/dsa-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/adityasx69/dsa-daily/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/adityasx69/dsa-daily/tree/master/3701-compute-alternating-sum) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adityasx69/dsa-daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3668-restore-finishing-order](https://github.com/adityasx69/dsa-daily/tree/master/3668-restore-finishing-order) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adityasx69/dsa-daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adityasx69/dsa-daily/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Union-Find

@@ -63,6 +63,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityasx69/dsa-daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityasx69/dsa-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/adityasx69/dsa-daily/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/adityasx69/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -199,6 +200,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/adityasx69/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityasx69/dsa-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3701-compute-alternating-sum](https://github.com/adityasx69/dsa-daily/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
 | ------- |

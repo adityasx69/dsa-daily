@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityasx69/dsa-daily/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/adityasx69/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adityasx69/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -82,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/adityasx69/dsa-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/adityasx69/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/adityasx69/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -285,6 +287,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adityasx69/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/adityasx69/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adityasx69/dsa-daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/adityasx69/dsa-daily/tree/master/2574-left-and-right-sum-differences) |

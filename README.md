@@ -87,6 +87,7 @@
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasx69/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/adityasx69/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/adityasx69/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -169,6 +170,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/adityasx69/dsa-daily/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/adityasx69/dsa-daily/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/adityasx69/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [1408-string-matching-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityasx69/dsa-daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adityasx69/dsa-daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |

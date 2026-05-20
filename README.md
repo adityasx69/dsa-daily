@@ -128,6 +128,7 @@
 | [0788-rotated-digits](https://github.com/adityasx69/dsa-daily/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasx69/dsa-daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityasx69/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/adityasx69/dsa-daily/tree/master/1512-number-of-good-pairs) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adityasx69/dsa-daily/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->

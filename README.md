@@ -110,6 +110,7 @@
 | [0125-valid-palindrome](https://github.com/adityasx69/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityasx69/dsa-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityasx69/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adityasx69/dsa-daily/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |

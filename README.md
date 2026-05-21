@@ -78,6 +78,7 @@
 | [3701-compute-alternating-sum](https://github.com/adityasx69/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adityasx69/dsa-daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/adityasx69/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityasx69/dsa-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/adityasx69/dsa-daily/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/adityasx69/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |

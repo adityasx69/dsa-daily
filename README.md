@@ -184,6 +184,7 @@
 | [0657-robot-return-to-origin](https://github.com/adityasx69/dsa-daily/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/adityasx69/dsa-daily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/adityasx69/dsa-daily/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/adityasx69/dsa-daily/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityasx69/dsa-daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |

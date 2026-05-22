@@ -109,6 +109,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityasx69/dsa-daily/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/adityasx69/dsa-daily/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0876-middle-of-the-linked-list) |
@@ -177,6 +178,7 @@
 | [0014-longest-common-prefix](https://github.com/adityasx69/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityasx69/dsa-daily/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/adityasx69/dsa-daily/tree/master/0657-robot-return-to-origin) |

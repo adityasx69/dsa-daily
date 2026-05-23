@@ -121,6 +121,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityasx69/dsa-daily/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/adityasx69/dsa-daily/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityasx69/dsa-daily/tree/master/0066-plus-one) |
@@ -217,6 +218,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityasx69/dsa-daily/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -330,6 +332,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityasx69/dsa-daily/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |

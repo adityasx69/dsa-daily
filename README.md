@@ -106,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adityasx69/dsa-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityasx69/dsa-daily/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/adityasx69/dsa-daily/tree/master/0125-valid-palindrome) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityasx69/dsa-daily/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adityasx69/dsa-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |

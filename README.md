@@ -112,6 +112,7 @@
 | [0125-valid-palindrome](https://github.com/adityasx69/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityasx69/dsa-daily/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
@@ -338,6 +341,7 @@
 | [0002-add-two-numbers](https://github.com/adityasx69/dsa-daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityasx69/dsa-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0876-middle-of-the-linked-list) |

@@ -126,6 +126,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityasx69/dsa-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2000-reverse-prefix-of-word](https://github.com/adityasx69/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityasx69/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -210,6 +211,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/adityasx69/dsa-daily/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasx69/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/adityasx69/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityasx69/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityasx69/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityasx69/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -346,6 +348,7 @@
 | [0234-palindrome-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/adityasx69/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
 | ------- |

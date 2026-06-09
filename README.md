@@ -226,6 +226,7 @@
 | [2942-find-words-containing-character](https://github.com/adityasx69/dsa-daily/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/adityasx69/dsa-daily/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/adityasx69/dsa-daily/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/adityasx69/dsa-daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/adityasx69/dsa-daily/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
@@ -267,6 +268,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/adityasx69/dsa-daily/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/adityasx69/dsa-daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityasx69/dsa-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/adityasx69/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/adityasx69/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |

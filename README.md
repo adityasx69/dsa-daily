@@ -62,6 +62,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityasx69/dsa-daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/adityasx69/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/adityasx69/dsa-daily/tree/master/2678-number-of-senior-citizens) |
@@ -103,6 +104,7 @@
 | [1512-number-of-good-pairs](https://github.com/adityasx69/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityasx69/dsa-daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adityasx69/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/adityasx69/dsa-daily/tree/master/3668-restore-finishing-order) |
@@ -137,6 +139,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityasx69/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityasx69/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityasx69/dsa-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |

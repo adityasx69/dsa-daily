@@ -77,6 +77,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityasx69/dsa-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/adityasx69/dsa-daily/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityasx69/dsa-daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityasx69/dsa-daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityasx69/dsa-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/adityasx69/dsa-daily/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityasx69/dsa-daily/tree/master/3689-maximum-total-subarray-value-i) |
@@ -140,6 +141,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityasx69/dsa-daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0875-koko-eating-bananas](https://github.com/adityasx69/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityasx69/dsa-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityasx69/dsa-daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -295,12 +298,14 @@
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/adityasx69/dsa-daily/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/adityasx69/dsa-daily/tree/master/3467-transform-array-by-parity) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityasx69/dsa-daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/adityasx69/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adityasx69/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityasx69/dsa-daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityasx69/dsa-daily/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |

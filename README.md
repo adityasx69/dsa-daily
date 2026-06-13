@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityasx69/dsa-daily/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityasx69/dsa-daily/tree/master/0138-copy-list-with-random-pointer) |
@@ -148,6 +149,7 @@
 | [0002-add-two-numbers](https://github.com/adityasx69/dsa-daily/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/adityasx69/dsa-daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityasx69/dsa-daily/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/adityasx69/dsa-daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adityasx69/dsa-daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adityasx69/dsa-daily/tree/master/0066-plus-one) |
@@ -208,6 +210,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityasx69/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityasx69/dsa-daily/tree/master/0125-valid-palindrome) |

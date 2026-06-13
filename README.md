@@ -156,6 +156,7 @@
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityasx69/dsa-daily/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/adityasx69/dsa-daily/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/adityasx69/dsa-daily/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/1137-n-th-tribonacci-number) |
@@ -354,6 +355,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityasx69/dsa-daily/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/adityasx69/dsa-daily/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |

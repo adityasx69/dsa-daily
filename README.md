@@ -50,6 +50,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityasx69/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adityasx69/dsa-daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/adityasx69/dsa-daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/adityasx69/dsa-daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityasx69/dsa-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/adityasx69/dsa-daily/tree/master/1920-build-array-from-permutation) |
@@ -298,6 +299,7 @@
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adityasx69/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/adityasx69/dsa-daily/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/adityasx69/dsa-daily/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/adityasx69/dsa-daily/tree/master/3024-type-of-triangle) |
@@ -306,6 +308,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/adityasx69/dsa-daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasx69/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adityasx69/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -414,4 +417,8 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityasx69/dsa-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/adityasx69/dsa-daily/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/adityasx69/dsa-daily/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

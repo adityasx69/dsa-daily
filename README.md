@@ -104,6 +104,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasx69/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/adityasx69/dsa-daily/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/adityasx69/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/adityasx69/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -224,6 +225,7 @@
 | [0771-jewels-and-stones](https://github.com/adityasx69/dsa-daily/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/adityasx69/dsa-daily/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/adityasx69/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1408-string-matching-in-an-array) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityasx69/dsa-daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adityasx69/dsa-daily/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -329,6 +331,7 @@
 | [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityasx69/dsa-daily/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/adityasx69/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/adityasx69/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/adityasx69/dsa-daily/tree/master/2833-furthest-point-from-origin) |
 | [3467-transform-array-by-parity](https://github.com/adityasx69/dsa-daily/tree/master/3467-transform-array-by-parity) |

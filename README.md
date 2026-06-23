@@ -61,6 +61,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityasx69/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityasx69/dsa-daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityasx69/dsa-daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
@@ -142,6 +143,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityasx69/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityasx69/dsa-daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasx69/dsa-daily/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityasx69/dsa-daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -283,6 +285,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityasx69/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasx69/dsa-daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityasx69/dsa-daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/adityasx69/dsa-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/adityasx69/dsa-daily/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2553-separate-the-digits-in-an-array) |

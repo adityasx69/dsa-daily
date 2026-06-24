@@ -86,6 +86,7 @@
 | [3701-compute-alternating-sum](https://github.com/adityasx69/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adityasx69/dsa-daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adityasx69/dsa-daily/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/adityasx69/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -345,6 +346,7 @@
 | [0054-spiral-matrix](https://github.com/adityasx69/dsa-daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/adityasx69/dsa-daily/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adityasx69/dsa-daily/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
 | ------- |
@@ -427,4 +429,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/adityasx69/dsa-daily/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adityasx69/dsa-daily/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

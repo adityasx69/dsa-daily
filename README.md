@@ -103,6 +103,7 @@
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adityasx69/dsa-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/adityasx69/dsa-daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasx69/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/adityasx69/dsa-daily/tree/master/0771-jewels-and-stones) |
@@ -222,6 +223,7 @@
 | [0125-valid-palindrome](https://github.com/adityasx69/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityasx69/dsa-daily/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/adityasx69/dsa-daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/adityasx69/dsa-daily/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/adityasx69/dsa-daily/tree/master/0709-to-lower-case) |
@@ -334,6 +336,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityasx69/dsa-daily/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/adityasx69/dsa-daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityasx69/dsa-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/adityasx69/dsa-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/adityasx69/dsa-daily/tree/master/1512-number-of-good-pairs) |

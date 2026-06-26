@@ -86,6 +86,7 @@
 | [3701-compute-alternating-sum](https://github.com/adityasx69/dsa-daily/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adityasx69/dsa-daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3895-count-digit-appearances](https://github.com/adityasx69/dsa-daily/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityasx69/dsa-daily/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/adityasx69/dsa-daily/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -191,6 +192,7 @@
 | [3516-find-closest-person](https://github.com/adityasx69/dsa-daily/tree/master/3516-find-closest-person) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adityasx69/dsa-daily/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/adityasx69/dsa-daily/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |

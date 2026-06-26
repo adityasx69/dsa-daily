@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/adityasx69/dsa-daily/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityasx69/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/adityasx69/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adityasx69/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -438,4 +439,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityasx69/dsa-daily/tree/master/3898-find-the-degree-of-each-vertex) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adityasx69/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

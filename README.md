@@ -68,6 +68,7 @@
 | [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/adityasx69/dsa-daily/tree/master/2574-left-and-right-sum-differences) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adityasx69/dsa-daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2678-number-of-senior-citizens](https://github.com/adityasx69/dsa-daily/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/adityasx69/dsa-daily/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/adityasx69/dsa-daily/tree/master/2942-find-words-containing-character) |
@@ -114,6 +115,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adityasx69/dsa-daily/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/adityasx69/dsa-daily/tree/master/2540-minimum-common-value) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adityasx69/dsa-daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityasx69/dsa-daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/adityasx69/dsa-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/adityasx69/dsa-daily/tree/master/3668-restore-finishing-order) |

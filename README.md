@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityasx69/dsa-daily/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityasx69/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasx69/dsa-daily/tree/master/0128-longest-consecutive-sequence) |
@@ -222,6 +223,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityasx69/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/adityasx69/dsa-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityasx69/dsa-daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityasx69/dsa-daily/tree/master/0020-valid-parentheses) |
@@ -444,5 +446,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityasx69/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/adityasx69/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

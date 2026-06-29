@@ -165,6 +165,7 @@
 | [0050-powx-n](https://github.com/adityasx69/dsa-daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adityasx69/dsa-daily/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/adityasx69/dsa-daily/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityasx69/dsa-daily/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/adityasx69/dsa-daily/tree/master/0319-bulb-switcher) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityasx69/dsa-daily/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/adityasx69/dsa-daily/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/adityasx69/dsa-daily/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/adityasx69/dsa-daily/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1486-xor-operation-in-an-array) |
@@ -276,6 +278,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/adityasx69/dsa-daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/adityasx69/dsa-daily/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/adityasx69/dsa-daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/adityasx69/dsa-daily/tree/master/0509-fibonacci-number) |
 ## Memoization

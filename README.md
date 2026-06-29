@@ -207,6 +207,7 @@
 | [0476-number-complement](https://github.com/adityasx69/dsa-daily/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/adityasx69/dsa-daily/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1486-xor-operation-in-an-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/adityasx69/dsa-daily/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Search
 |  |
 | ------- |

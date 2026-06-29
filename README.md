@@ -56,6 +56,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityasx69/dsa-daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/adityasx69/dsa-daily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityasx69/dsa-daily/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityasx69/dsa-daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityasx69/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adityasx69/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityasx69/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -247,6 +248,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/adityasx69/dsa-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/adityasx69/dsa-daily/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasx69/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityasx69/dsa-daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/adityasx69/dsa-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adityasx69/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/adityasx69/dsa-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |

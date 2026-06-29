@@ -204,6 +204,7 @@
 | ------- |
 | [0136-single-number](https://github.com/adityasx69/dsa-daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/adityasx69/dsa-daily/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/adityasx69/dsa-daily/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/adityasx69/dsa-daily/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/adityasx69/dsa-daily/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/adityasx69/dsa-daily/tree/master/1486-xor-operation-in-an-array) |

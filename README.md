@@ -39,6 +39,7 @@
 | [0682-baseball-game](https://github.com/adityasx69/dsa-daily/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/adityasx69/dsa-daily/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adityasx69/dsa-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0860-lemonade-change](https://github.com/adityasx69/dsa-daily/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/adityasx69/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasx69/dsa-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityasx69/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -334,6 +335,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adityasx69/dsa-daily/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/adityasx69/dsa-daily/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/adityasx69/dsa-daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasx69/dsa-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adityasx69/dsa-daily/tree/master/2078-two-furthest-houses-with-different-colors) |

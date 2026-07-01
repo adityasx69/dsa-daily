@@ -18,6 +18,7 @@
 | [0054-spiral-matrix](https://github.com/adityasx69/dsa-daily/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/adityasx69/dsa-daily/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityasx69/dsa-daily/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/adityasx69/dsa-daily/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasx69/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/adityasx69/dsa-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasx69/dsa-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -205,6 +206,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityasx69/dsa-daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adityasx69/dsa-daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/adityasx69/dsa-daily/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/adityasx69/dsa-daily/tree/master/0461-hamming-distance) |
@@ -461,4 +463,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasx69/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/adityasx69/dsa-daily/tree/master/0643-maximum-average-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adityasx69/dsa-daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

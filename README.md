@@ -28,6 +28,7 @@
 | [0162-find-peak-element](https://github.com/adityasx69/dsa-daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/adityasx69/dsa-daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/adityasx69/dsa-daily/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/adityasx69/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adityasx69/dsa-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adityasx69/dsa-daily/tree/master/0238-product-of-array-except-self) |
@@ -170,6 +171,7 @@
 | [0050-powx-n](https://github.com/adityasx69/dsa-daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adityasx69/dsa-daily/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adityasx69/dsa-daily/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/adityasx69/dsa-daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/adityasx69/dsa-daily/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityasx69/dsa-daily/tree/master/0292-nim-game) |
@@ -380,6 +382,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/adityasx69/dsa-daily/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/adityasx69/dsa-daily/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/adityasx69/dsa-daily/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adityasx69/dsa-daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -467,4 +470,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adityasx69/dsa-daily/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adityasx69/dsa-daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -204,6 +204,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityasx69/dsa-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityasx69/dsa-daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/adityasx69/dsa-daily/tree/master/3516-find-closest-person) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityasx69/dsa-daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/adityasx69/dsa-daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adityasx69/dsa-daily/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/adityasx69/dsa-daily/tree/master/3895-count-digit-appearances) |
